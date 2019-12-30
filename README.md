@@ -11,6 +11,6 @@ for add a SCP:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3- add 'class' value equal to the class of the SCP
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4- add 'id' value equal to 'SCP-<id of SCP>'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4- add 'id' value equal to 'SCP-[id of SCP]'
 
 for more help look at the other item in the list
