@@ -4,6 +4,7 @@ It's a Wiki Bot discord for SCP (a fictitious business)
 It's a test version
 
 for add a SCP:
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1- add on SCP value a element named by the scp id
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2- add on this 'name' value equal to the name of the SCP
