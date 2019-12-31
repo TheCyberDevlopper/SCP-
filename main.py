@@ -190,6 +190,46 @@ SCP = {
         'name': 'Étoile naine',
         'class': 'Euclide',
         'id': 'SCP-037'
+    },
+    '038': {
+        'name': ' L\'Arbre du Tout',
+        'class': 'Sûr',
+        'id': 'SCP-038'
+    },
+    '039': {
+        'name': ' Ingénieurs nasiques',
+        'class': 'Euclide',
+        'id': 'SCP-039'
+    },
+    '040': {
+        'name': 'Enfant de l\'Évolution',
+        'class': 'Euclide',
+        'id': 'SCP-040'
+    },
+    '041': {
+        'name': 'Patient à Émission de Pensées',
+        'class': 'Sûr',
+        'id': 'SCP-041'
+    },
+    '042': {
+        'name': 'Un Cheval autrefois ailé',
+        'class': 'Sûr',
+        'id': 'SCP-042'
+    },
+    '043': {
+        'name': 'Les Beatles',
+        'class': 'Sûr',
+        'id': 'SCP-043'
+    },
+    '044': {
+        'name': 'Canon à Fission moléculaire de la Seconde Guerre Mondiale',
+        'class': 'Sûr',
+        'id': 'SCP-044'
+    },
+    '045': {
+        'name': 'Convertisseur atmosphérique',
+        'class': 'Sûr',
+        'id': 'SCP-045'
     }
 }
 
